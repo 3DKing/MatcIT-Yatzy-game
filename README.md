@@ -1,6 +1,6 @@
 # MatchIT-Yatzy game
 
-![](YatzyProjectOverview.jpg)
+![](YatzyProject_Overview.jpg)
 
 
 
