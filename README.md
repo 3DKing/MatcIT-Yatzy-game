@@ -1,4 +1,4 @@
-# MatcIT-Yatzy-game
+# MatcIT Yatzy game
 
 ![](YatzyProjectOverview.jpg)
 
