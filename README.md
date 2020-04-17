@@ -1,6 +1,6 @@
 # MatcIT-Yatzy-game
 
-![](YatzyProjectOverview.ps)
+![](YatzyProjectOverview.jpg)
 
 
 
